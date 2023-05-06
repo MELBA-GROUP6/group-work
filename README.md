@@ -7,7 +7,7 @@
 <table>
     <tr> 
         <th>Name</th>
-<th>Id</th>
+        <th>Id</th>
     </tr>
     <tr>
         <td>Lingerew Tarekegn</td>

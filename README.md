@@ -1,4 +1,4 @@
-# group-work
+# Individual Assignment
 1. Rock Paper Scissors Game in Python (1 - 15)<br>
 Rock Paper Scissors is a simple game you can play with a friend. The game is played by each 
 player choosing one of rock, paper, or scissors, and then the players compare their choices. It is a 
